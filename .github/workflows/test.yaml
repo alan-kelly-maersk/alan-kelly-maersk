@@ -12,8 +12,6 @@ jobs:
         uses: actions/github-script@v6
         with:
           script: |
-            const { getOctokit } = require('@actions/github');
-            const github = getOctokit(process.env.GITHUB_TOKEN);
             const { data: runs } = await github.actions.listWorkflowRuns({
               owner: context.repo.owner,
               repo: context.repo.repo,
