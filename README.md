@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alan-kelly-maersk
-- 👀 I’m interested in development but rarely get to do it, so it stays a hobby for now.
+- 👀 I'm interested in all things related to Software Engineering, especially with a view to integrating AI.
 - 🌱 I’m currently learning anything I can to keep up with changes.
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 Please feel free to contact me via Teams, e-mail or here.
